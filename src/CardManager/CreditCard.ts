@@ -17,7 +17,7 @@ export class CreditCardAPI {
       {
         id: 'ff646567-484e-4eb7-961f-977f7c728eb9',
         cardNumber: '1111111111111111',
-        cardHolder: 'Hassan Saeed',
+        cardHolder: 'Jane Doe',
         cardMonth: '01',
         cardYear: '2023',
         cardCvv: '1111',
